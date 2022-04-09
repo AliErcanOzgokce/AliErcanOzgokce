@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ercan Özgökçe</h1>
-<h3 align="center">Electrical and Electronic Enginner Student,  Blokchain Engineer</h3>
+<h3 align="center">Electrical and Electronics Engineering Student,  Blokchain Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliercanozgokce&label=Profile%20views&color=0e75b6&style=flat" alt="aliercanozgokce" /> </p>
 
 - 🔭 I’m currently working on **Smart Contracts, Nft, Web3**
