@@ -24,6 +24,7 @@
 
 ### 📕 Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Any Programing Language With A Reading Code](https://medium.com/@aliercanozgokce/learning-any-programing-language-with-a-reading-code-d7653c2baf1d?source=rss-90cdd419dfee------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliercanozgokce&show_icons=true&locale=en&layout=compact" alt="aliercanozgokce" /></p>
