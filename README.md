@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ali Ercan Özgökçe</h1>
-<h3 align="center">Electrical and Electronics Engineering Student,  Blockchain Engineer</h3>
+<h3 align="center">Electrical and Electronics Engineering Student,  Blockchain Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliercanozgokce&label=Profile%20views&color=0e75b6&style=flat" alt="aliercanozgokce" /> </p>
 
 - 🔭 I’m currently working on **Smart Contracts, Nft, Web3**
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🤝 I’m looking for a new job as a **Blockchain Engineer**
+- 🤝 I’m looking for a new job as a **Blockchain Developer**
 
 - 📄 Know about my experiences www.aliercanozgokce.engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliErcanOzgokce](https://github.com/AliErcanOzgokce)
 
-- 💬 Ask me about **solidity, c, python, react**
+- 💬 Ask me about **solidity, c, python, react, go, javascript**
 
 - 📫 How to reach me **aliercanozgokce@gmail.com**
 
