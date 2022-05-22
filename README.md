@@ -8,6 +8,8 @@
 
 - 🤝 I’m looking for a new job as a **Blockchain Engineer**
 
+- 📄 Know about my experiences www.aliercanozgokce.engineer
+
 - 👨‍💻 All of my projects are available at [https://github.com/AliErcanOzgokce](https://github.com/AliErcanOzgokce)
 
 - 💬 Ask me about **solidity, c, python, react**
