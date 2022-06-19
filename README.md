@@ -2,7 +2,7 @@
 <h3 align="center">Electrical and Electronics Engineering Student,  Blockchain Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliercanozgokce&label=Profile%20views&color=0e75b6&style=flat" alt="aliercanozgokce" /> </p>
 
-- 🔭 I’m currently working on **Smart Contracts, Nft, Web3**
+- 🔭 I’m currently working on **Smart Contracts, Nft, Web3, Tokens**
 
 - 🌱 I’m currently learning **Solidity**
 
