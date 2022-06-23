@@ -1,36 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ali Ercan Özgökçe</h1>
-<h3 align="center">Electrical and Electronics Engineering Student,  Blockchain Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliercanozgokce&label=Profile%20views&color=0e75b6&style=flat" alt="aliercanozgokce" /> </p>
+# Howdy!
 
-- 🔭 I’m currently working on **Smart Contracts, Nft, Web3, Tokens**
+I'm Ercan from Turkey, EEE student and junior blockchain developer. I'd like to create and contribute dapps, DAO and defi projects. I'm a mainters of [tr-turkish](https://github.com/solidity-docs/tr-turkish) (Turkish community translation of the Solidity documentation) project. 
 
-- 🌱 I’m currently learning **Solidity**
-
-- 🤝 I’m looking for a new job as a **Blockchain Developer**
-
-- 📄 Know about my experiences www.aliercanozgokce.engineer
-
-- 👨‍💻 All of my projects are available at [https://github.com/AliErcanOzgokce](https://github.com/AliErcanOzgokce)
-
-- 💬 Ask me about **solidity, c, python, react, go, javascript**
-
-- 📫 How to reach me **aliercanozgokce@gmail.com**
+I've huge interest to the blockchain technology. I really enjoy learning cryptography and decentralized systems. And currently I'm looking for a job as a blockchain developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aeo#2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aeo#2027" height="30" width="40" /></a><a href="https://www.linkedin.com/in/AliErcanOzgokce/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Ercan Ozgokce" height="30" width="40" /></a><a href="https://medium.com/@aliercanozgokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliercanozgokce" height="30" width="40" /></a>
 </p>
 
-### 📕 Blogs Posts
-<!-- BLOG-POST-LIST:START -->
-- [Learning Any Programing Language With A Reading Code](https://medium.com/@aliercanozgokce/learning-any-programing-language-with-a-reading-code-d7653c2baf1d?source=rss-90cdd419dfee------2)
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78970916/162573849-975bda87-84f2-49bb-83d9-489d3a043ae2.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78970916/166432109-3f73347a-40a8-4f0f-901e-969f011a6cb2.svg" alt="truffle" width="40" height="40"/> </a> <a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78970916/166432432-0056e7cc-0952-47ba-8653-823c0723ffd2.svg" alt="ganache-cli" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliercanozgokce&show_icons=true&locale=en&layout=compact" alt="aliercanozgokce" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliercanozgokce&show_icons=true&locale=en" alt="aliercanozgokce" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliercanozgokce&" alt="aliercanozgokce" /></p>
