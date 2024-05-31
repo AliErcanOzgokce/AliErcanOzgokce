@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm Ercan from Turkey, fullstack blockchain developer. I'd like to create and contribute dapps, DAO and defi projects. I'm a founder/maintainer of the [tr-turkish](https://github.com/solidity-docs/tr-turkish) (Turkish community translation of the Solidity documentation) project. 
+I'm Ercan from Turkey, <b>Full Stack Blockchain Developer</b> . I'd like to create and contribute dapps, DAO and defi projects. I'm a founder/maintainer of the [tr-turkish](https://github.com/solidity-docs/tr-turkish) (Turkish community translation of the Solidity documentation) project. 
 
 I've huge interest to the blockchain technology. I really enjoy learning cryptography and decentralized systems. And currently I'm looking for a job as a blockchain developer.
 
