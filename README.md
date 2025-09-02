@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm Ercan from Turkey, <b>Full Stack Blockchain Developer</b>, currently building Nativerse.
+I'm Ercan from Turkey, <b>Full Stack Blockchain Developer</b>, currently building next generation finance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
